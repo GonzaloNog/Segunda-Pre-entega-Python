@@ -1,0 +1,11 @@
+__init__.py
+main.py
+setup.py
+PrimerTrabajo/Trabajo1.py
+PrimerTrabajo/__init__.py
+SegundoTrabajo/Clases.py
+SegundoTrabajo/__init__.py
+TP2GonzaloZeiss.egg-info/PKG-INFO
+TP2GonzaloZeiss.egg-info/SOURCES.txt
+TP2GonzaloZeiss.egg-info/dependency_links.txt
+TP2GonzaloZeiss.egg-info/top_level.txt
